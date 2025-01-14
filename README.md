@@ -30,3 +30,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alisamaeid/alisamaeid/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/alisamaeid/alisamaeid/output/github-snake.svg" />
 </picture>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=30&duration=3000&pause=1000&color=08C8FEFC&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Thank+You+for+Visiting!+%F0%9F%98%8A)](https://git.io/typing-svg)
