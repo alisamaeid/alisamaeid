@@ -1,10 +1,14 @@
 
  <div align="center">
-    <img src="./github_image.jpg" alt="Banner" width="2560" height="720">
+    <img src="./github_image.jpg" alt="Banner" width="2560" height="320">
 </div>
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=25&duration=2000&pause=1000&color=FE8118FC&background=FFFFFF00&center=true&vCenter=true&width=435&lines=%F0%9F%91%8BHi+there;I'm+Ali+Samaei;I+learn+something+new+every+day;I%E2%80%99m+into+ML%2C+DL%2C+and+Computer+Vision.)](https://git.io/typing-svg)
+
+<br>
+
 # 💫 About Me:
 <br>I'm a student with a big passion for technology, currently exploring the exciting worlds of Machine Learning, Deep Learning, and Computer Vision.<br>📚 What I'm learning<br>Right now, I’m focusing on Python, neural networks, and AI frameworks, and I’m always looking for ways to apply what I learn to real-world problems.<br>🔍 What drives me?<br>I love working with data and turning it into useful insights and building systems that can think and solve problems.<br>💡 A little about me<br>When I’m not coding, I enjoy reading about AI breakthroughs, watching tutorials, or brainstorming ideas for my next project.<br>
 <div align="center">
