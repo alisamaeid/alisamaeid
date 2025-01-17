@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="./mygithub_banner.jpg" alt="Banner" width="2560" height="420">
+</div>
 
  
 <br>
