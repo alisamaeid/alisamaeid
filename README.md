@@ -1,8 +1,5 @@
 
- <div align="center">
-    <img src="./github_image.jpg" alt="Banner" width="2560" height="420">
-</div>
-
+ 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=25&duration=2000&pause=1000&color=FE8118FC&background=FFFFFF00&center=true&vCenter=true&width=435&lines=%F0%9F%91%8BHi+there;I'm+Ali+Samaei;I+learn+something+new+every+day;I%E2%80%99m+into+ML%2C+DL%2C+and+Computer+Vision.)](https://git.io/typing-svg)
